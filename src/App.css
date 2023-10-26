@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+}
+
+.ant-layout-sider-children {
+    min-height: 100vh;
+}
+
+:where(.css-dev-only-do-not-override-xu9wm8).ant-table-wrapper .ant-table-thead>tr>th {
+    background: #001529;
+    color: #fff;
+}
+
+tr:nth-child(odd) {
+    background: #f1e6ff;
+}
+
+:where(.css-dev-only-do-not-override-xu9wm8).ant-select-single {
+    width: 200px;
+    margin-bottom: 20px;
+}

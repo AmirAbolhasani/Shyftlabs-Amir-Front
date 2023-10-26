@@ -1,0 +1,1 @@
+export type ParsedNameValue = undefined | null | boolean | number | string | Array<string> | Array<string | null> | any;

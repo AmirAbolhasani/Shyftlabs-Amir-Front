@@ -1,0 +1,20 @@
+.af_base_layout_list_pages {
+    text-decoration: none;
+    color: #fff !important;
+    list-style-type: none;
+    padding: 0 25px;
+}
+
+.af_base_layout_list_pages li {
+    margin: 30px 0;
+    text-align: left;
+}
+
+.af_base_layout_list_pages li a:focus {
+    color: #63d989 !important;
+    font-weight: 900;
+}
+
+.af_base_layout_list_pages a {
+    color: #fff !important;
+}

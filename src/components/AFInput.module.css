@@ -1,0 +1,15 @@
+.af_input_form {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-bottom: 24px;
+    align-content: flex-start;
+    align-items: flex-start;
+    width: min-content;
+}
+
+.af_input {
+    padding: 10px;
+    border-radius: 8px;
+    width: 200px;
+}
