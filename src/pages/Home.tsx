@@ -18,9 +18,9 @@ export default class Home extends React.Component<IProps, IState> {
                 <h3 >
                     Shyftlabs
                 </h3>
-                <p>Please find the <a href="https://google.com">Github Frontend Project</a></p>
-                <p>Please find the <a href="https://google.com">Github Backend Project</a></p>
-                <p>Please find the <a href="https://google.com">Desciption Video</a></p>
+                <p>Please find the <a href="https://github.com/AmirAbolhasani/Shyftlabs-Amir-Front">Github Frontend Project</a></p>
+                <p>Please find the <a href="https://github.com/AmirAbolhasani/Shyftlabs-Amir-Back">Github Backend Project</a></p>
+                <p>Please find the <a href="https://mega.nz/file/Fa8l0A6Z#yir6pewhfh6un1uVmDYI5Xcjbp2MHQXBpC41WFfFdis">Desciption Video</a></p>
             </div>
         );
     }
